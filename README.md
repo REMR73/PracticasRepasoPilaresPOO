@@ -66,3 +66,6 @@ src/
         │   └── CombateUtil.java          # Métodos de ayuda para simular combates
         └── DemoJuego.java                # Punto de entrada principal
 ```
+## 🛠️ Diagrama UML de las clases
+![image](https://github.com/user-attachments/assets/fd026fd1-ce54-49da-82e5-55a894bbf1d5)
+
